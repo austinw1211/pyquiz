@@ -1,4 +1,4 @@
-print("He stood unshaken, a voice in the storm
+print("""He stood unshaken, a voice in the storm
 A man of conviction, a heart reborn
 He spoke the truth when the cost was high
 He lived for Jesus, unafraid to die
@@ -50,4 +50,4 @@ Together unbroken, we'll make Heaven known
 We are Charlie Kirk
 Forever alive
 We are Charlie Kirk
-With God we will rise")
+With God we will rise""")
