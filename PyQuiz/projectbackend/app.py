@@ -1,4 +1,4 @@
-pip install flask flask-cors
+
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from quiz_manager import QuizManager
