@@ -1,0 +1,52 @@
+[
+  {
+    "Question": "What is Dog?",
+    "Choices": [
+      "Sam",
+      "Jojo",
+      "Kakyoin",
+      "Baker"
+    ],
+    "AnswerIndex": 0
+  },
+  {
+    "Question": "What is Cat?",
+    "Choices": [
+      "Dr. Pepper",
+      "Mr. Pibb",
+      "Woolen",
+      "Maye"
+    ],
+    "AnswerIndex": 3
+  },
+  {
+    "Question": "What is Fish?",
+    "Choices": [
+      "Dory",
+      "Barracuda",
+      "Nemo",
+      "Martin"
+    ],
+    "AnswerIndex": 3
+  },
+  {
+    "Question": "What\u0027s my Dog\u0027s name?",
+    "Choices": [
+      "Sam",
+      "Woolen",
+      "Jojo",
+      "Mark"
+    ],
+    "AnswerIndex": 0
+  },
+  {
+    "Question": "Best SWOSU Building",
+    "Choices": [
+      "Stafford",
+      "Education",
+      "Student Union",
+      "Old Science"
+    ],
+    "AnswerIndex": 2
+  }
+]

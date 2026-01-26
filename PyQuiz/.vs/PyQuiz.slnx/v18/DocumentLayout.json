@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB3A518-7BE5-FCDC-666A-2EB2B8782DB1}|PyQuiz\\PyQuiz.vbproj|c:\\users\\boosh\\source\\repos\\austinw1211\\pyquiz\\pyquiz\\pyquiz\\editquestionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DAB3A518-7BE5-FCDC-666A-2EB2B8782DB1}|PyQuiz\\PyQuiz.vbproj|solutionrelative:pyquiz\\editquestionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB3A518-7BE5-FCDC-666A-2EB2B8782DB1}|PyQuiz\\PyQuiz.vbproj|c:\\users\\boosh\\source\\repos\\austinw1211\\pyquiz\\pyquiz\\pyquiz\\addquestionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DAB3A518-7BE5-FCDC-666A-2EB2B8782DB1}|PyQuiz\\PyQuiz.vbproj|solutionrelative:pyquiz\\addquestionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB3A518-7BE5-FCDC-666A-2EB2B8782DB1}|PyQuiz\\PyQuiz.vbproj|c:\\users\\boosh\\source\\repos\\austinw1211\\pyquiz\\pyquiz\\pyquiz\\quizform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DAB3A518-7BE5-FCDC-666A-2EB2B8782DB1}|PyQuiz\\PyQuiz.vbproj|solutionrelative:pyquiz\\quizform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB3A518-7BE5-FCDC-666A-2EB2B8782DB1}|PyQuiz\\PyQuiz.vbproj|c:\\users\\boosh\\source\\repos\\austinw1211\\pyquiz\\pyquiz\\pyquiz\\questionstore.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DAB3A518-7BE5-FCDC-666A-2EB2B8782DB1}|PyQuiz\\PyQuiz.vbproj|solutionrelative:pyquiz\\questionstore.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB3A518-7BE5-FCDC-666A-2EB2B8782DB1}|PyQuiz\\PyQuiz.vbproj|c:\\users\\boosh\\source\\repos\\austinw1211\\pyquiz\\pyquiz\\pyquiz\\questions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DAB3A518-7BE5-FCDC-666A-2EB2B8782DB1}|PyQuiz\\PyQuiz.vbproj|solutionrelative:pyquiz\\questions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB3A518-7BE5-FCDC-666A-2EB2B8782DB1}|PyQuiz\\PyQuiz.vbproj|c:\\users\\boosh\\source\\repos\\austinw1211\\pyquiz\\pyquiz\\pyquiz\\addquestionsform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DAB3A518-7BE5-FCDC-666A-2EB2B8782DB1}|PyQuiz\\PyQuiz.vbproj|solutionrelative:pyquiz\\addquestionsform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\projectbackend\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projectbackend\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditQuestionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\EditQuestionsForm.vb",
+              "RelativeDocumentMoniker": "PyQuiz\\EditQuestionsForm.vb",
+              "ToolTip": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\EditQuestionsForm.vb",
+              "RelativeToolTip": "PyQuiz\\EditQuestionsForm.vb",
+              "ViewState": "AgIAADsAAAAAAAAAAAASwEUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-26T02:10:28.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuizForm.vb",
+              "DocumentMoniker": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\QuizForm.vb",
+              "RelativeDocumentMoniker": "PyQuiz\\QuizForm.vb",
+              "ToolTip": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\QuizForm.vb",
+              "RelativeToolTip": "PyQuiz\\QuizForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-26T02:07:02.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddQuestionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\AddQuestionsForm.vb",
+              "RelativeDocumentMoniker": "PyQuiz\\AddQuestionsForm.vb",
+              "ToolTip": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\AddQuestionsForm.vb",
+              "RelativeToolTip": "PyQuiz\\AddQuestionsForm.vb",
+              "ViewState": "AgIAAAsAAAAAAAAAAAArwBoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-26T02:01:20.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuestionStore.vb",
+              "DocumentMoniker": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\QuestionStore.vb",
+              "RelativeDocumentMoniker": "PyQuiz\\QuestionStore.vb",
+              "ToolTip": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\QuestionStore.vb",
+              "RelativeToolTip": "PyQuiz\\QuestionStore.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-26T02:00:26.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "questions.vb",
+              "DocumentMoniker": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\questions.vb",
+              "RelativeDocumentMoniker": "PyQuiz\\questions.vb",
+              "ToolTip": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\questions.vb",
+              "RelativeToolTip": "PyQuiz\\questions.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-26T01:59:51.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddQuestionsForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\AddQuestionsForm.Designer.vb",
+              "RelativeDocumentMoniker": "PyQuiz\\AddQuestionsForm.Designer.vb",
+              "ToolTip": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\AddQuestionsForm.Designer.vb",
+              "RelativeToolTip": "PyQuiz\\AddQuestionsForm.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-26T01:48:31.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\projectbackend\\app.py",
+              "RelativeDocumentMoniker": "projectbackend\\app.py",
+              "ToolTip": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\projectbackend\\app.py",
+              "RelativeToolTip": "projectbackend\\app.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-26T01:47:09.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
