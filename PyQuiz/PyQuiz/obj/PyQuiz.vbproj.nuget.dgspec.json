@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\austi\\source\\repos\\PyQuiz\\PyQuiz\\PyQuiz.vbproj": {}
+    "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\PyQuiz.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\austi\\source\\repos\\PyQuiz\\PyQuiz\\PyQuiz.vbproj": {
+    "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\PyQuiz.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\austi\\source\\repos\\PyQuiz\\PyQuiz\\PyQuiz.vbproj",
+        "projectUniqueName": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\PyQuiz.vbproj",
         "projectName": "PyQuiz",
-        "projectPath": "C:\\Users\\austi\\source\\repos\\PyQuiz\\PyQuiz\\PyQuiz.vbproj",
-        "packagesPath": "C:\\Users\\austi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\austi\\source\\repos\\PyQuiz\\PyQuiz\\obj\\",
+        "projectPath": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\PyQuiz.vbproj",
+        "packagesPath": "C:\\Users\\boosh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\boosh\\source\\repos\\austinw1211\\pyquiz\\PyQuiz\\PyQuiz\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\austi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\boosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

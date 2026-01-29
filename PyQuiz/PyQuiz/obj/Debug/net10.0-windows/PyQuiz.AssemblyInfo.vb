@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("PyQuiz"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1269c27b4a6fdd956333a8663bcefad893a90299"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("PyQuiz"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("PyQuiz"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
